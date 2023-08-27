@@ -1,0 +1,7 @@
+spring:
+  h1:
+    console:
+      enabled: true
+
+server:
+  port: 9000
